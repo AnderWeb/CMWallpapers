@@ -17,11 +17,6 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>paper_white</item>
-        <item>paper_green</item>
-        <item>paper_lined</item>
-        <item>paper_old</item>
-        <item>paper_colors</item>
-        <item>theme_wallpaper</item>
+		<item>wallpaper_cm_nexus_08</item>
     </string-array>
 </resources>
